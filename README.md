@@ -3,7 +3,7 @@ This free & open project contains additional activities for intermediate Python 
 
 Sadly, for some reason the ability to view what once were viewable as standard PDF files from GitHub recently stopped: no matter the browser, students can no longer see the first page of the requirement files! 
 
-Never to worry, our response was to include everything into a zip file. Better now it is to simply download NagysPythonPractice.zip. We will be updating that zip file each and every release.
+Never to worry, our response was to include everything into a zip file. Better now it is to simply download NagysPythonPractice.zip. We will be updating that zip file each and every release. (GitHub's Download button may also work - yet who knows how random that migt become in the future, as well?!)
 
 Next, please note that these activities use UML Use Cases and Activitiy Diagrams.
 
