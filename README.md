@@ -1,19 +1,27 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training. Designed for accomplished beginners, students enrolled in our other Python training opportunities will also enjoy these activities.
 
-NOTE:  Recently combined together, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. 
+
+PRINTED BOOK
+--------
+Recently combined together, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. 
 
 New software developers should note that the book includes a coupon. The coupon allows anyone to view our Python 1000 Videos for free! --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
 Location: https://www.amazon.com/dp/B075WTKVNB
 
 
+FREE VIDEO
+------
 Next, please note that these activities use UML Use Cases and Activity Diagrams.
 
 If you need to learn more about how to create and read the core UML Diagram types, you can review our free on-line video on YouTube:
 
 https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV
 
+
+PYTHON TRAINING
+-----
 Finally, if you need to learn Python, then consider:
 
 https://www.udemy.com/python-1000
