@@ -38,6 +38,8 @@ Enjoy!
 -Randall Nagy
 
 
+CONTACT INFORMATION
+-----
 p.s. If you have suggestions or opportunities - be they for additional projects, corrections, consulting and / or just about anything else - feel free to use the contact form at Soft9000.com to send us a message: http://soft9000.com/blog9000/contact.php
 
 
