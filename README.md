@@ -19,7 +19,15 @@ If you need to learn more about how to create and read the core UML Diagram type
 
 https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV
 
-Also, if you would like to sign-up for Python 1000, Python 2000, or one of our advanced Python 3000 educational opportunities you can do so at https://www.udemy.com .
+Also, if you need to learn Python 3, then consider:
+
+https://www.udemy.com/python-1000
+
+https://www.udemy.com/python-2000-beyond-the-basics
+
+https://www.udemy.com/python-2100-objects-factories-frameworks
+
+As well as our "Python 3000 SQL Quick Start"?
 
 
 Enjoy!
