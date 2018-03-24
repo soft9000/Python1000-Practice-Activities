@@ -30,7 +30,7 @@ https://www.udemy.com/python-2000-beyond-the-basics
 
 https://www.udemy.com/python-2100-objects-factories-frameworks
 
-As well as our "Python 3000 SQL Quick Start"?
+As well as our "Python 3000 SQL Quick Start:" https://www.udemy.com/python-3000-tactical-sql-quick-start
 
 
 Enjoy!
