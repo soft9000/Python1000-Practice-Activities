@@ -10,6 +10,7 @@ New software developers should note that the book includes a coupon. The coupon 
 
 Location: https://www.amazon.com/dp/B075WTKVNB
 
+For any who need a little help or a peek at the code I came up with, like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insdights / advice, can be found in that Amazon tome, as well.
 
 FREE VIDEO
 ------
