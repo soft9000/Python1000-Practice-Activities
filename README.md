@@ -4,9 +4,9 @@ This free & open project contains additional activities for intermediate Python 
 
 PRINTED BOOK
 --------
-Recently combined together, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. The books contains additional exercises, as well as information to help you succeed in this modern, profe$$ional software developer world.
+Recently combined together with the ***official source code*** as well as ***3 bonus exercies***, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In additin to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
-New software developers should note that the book includes a coupon. The coupon allows anyone to view our Python 1000 Videos for free! --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
+New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000 Videos for free! --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
 Location: https://www.amazon.com/dp/B075WTKVNB
 
