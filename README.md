@@ -4,7 +4,7 @@ This free & open project contains additional activities for intermediate Python 
 
 PRINTED BOOK
 --------
-Recently combined together with the ***official source code*** as well as ***3 bonus exercies***, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In additin to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
+Recently combined together with the ***official source code*** as well as ***3 bonus exercies***, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
 New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000 Videos for free! --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
@@ -31,7 +31,7 @@ https://www.udemy.com/python-2000-beyond-the-basics
 
 https://www.udemy.com/python-2100-objects-factories-frameworks
 
-As well as our "Python 3000 SQL Quick Start:" https://www.udemy.com/python-3000-tactical-sql-quick-start
+As well as our **Python 3000 SQL Quick Start**: https://www.udemy.com/python-3000-tactical-sql-quick-start
 
 
 Enjoy!
