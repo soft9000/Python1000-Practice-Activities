@@ -1,5 +1,5 @@
 # Python1000-Practice-Activities
-This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training. Designed for accomplished beginners, students enrolled in our other Python training opportunities will also enjoy these activities.
+This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training. Designed for software developers who are interested in creating software from professionally defined use case narratives using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
 
 
 PRINTED BOOK
