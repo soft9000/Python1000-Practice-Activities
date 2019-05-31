@@ -1,6 +1,7 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training. Designed for software developers who are interested in creating software from professionally defined use case narratives using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
 
+Consider: https://www.youtube.com/watch?v=nXrSMSQAwWM&t=5s
 
 PRINTED BOOK
 --------
@@ -23,11 +24,15 @@ https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW8
 
 PYTHON TRAINING
 -----
-Finally, if you need to learn Python, then consider:
+Finally, if you need to learn Python 3, then consider:
 
 https://www.udemy.com/python-1000
 
-https://www.udemy.com/python-2000-beyond-the-basics
+https://www.udemy.com/python-1100/?couponCode=S9K-GITHUB
+
+https://www.udemy.com/python-1200/?couponCode=S9K-GITHUB
+
+https://www.udemy.com/python-2000-beyond-the-basics/?couponCode=S9K-GITHUB
 
 https://www.udemy.com/python-2100-objects-factories-frameworks
 
