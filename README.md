@@ -11,9 +11,11 @@ Consider viewing:
 
 https://www.youtube.com/watch?v=X3-s38YFQwM
 
+https://www.youtube.com/watch?v=LYqlOAhhj9E
+
 ~ and ~
 
-https://www.youtube.com/watch?v=nXrSMSQAwWM&t=5s
+https://www.youtube.com/watch?v=nXrSMSQAwWM
 
 
 PRINTED BOOK
