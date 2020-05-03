@@ -1,13 +1,20 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. 
 
-If you've no experience with programming, here is a discount coupon to our primer: https://www.udemy.com/python-1000/?couponCode=S9K-PY1K-49
+If you've no experience with programming, here is our primer - is is "mostly free:" https://www.udemy.com/python-1000
 
-If you have no experience with Python 3 but know how to program, then: https://www.udemy.com/python-1100/?couponCode=S9K-GITHUB
+If you have no experience with Python 3 but know how to program, then: https://www.udemy.com/python-1100
 
 Designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
 
-Consider: https://www.youtube.com/watch?v=nXrSMSQAwWM&t=5s
+Consider viewing: 
+
+https://www.youtube.com/watch?v=X3-s38YFQwM
+
+~ and ~
+
+https://www.youtube.com/watch?v=nXrSMSQAwWM&t=5s
+
 
 PRINTED BOOK
 --------
