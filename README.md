@@ -8,7 +8,7 @@ If you have no experience with Python 3 but know how to program, then jump right
 # Overview
 This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
 
-If you are wondergin what software design is all about, consider viewing: 
+If you are windering what software design is all about, consider viewing: 
 
 Video: [Creating a Navigational Computer](https://www.youtube.com/watch?v=X3-s38YFQwM)
 
