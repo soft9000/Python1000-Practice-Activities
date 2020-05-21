@@ -3,11 +3,12 @@ This free & open project contains additional activities for intermediate Python 
 
 If you've no experience with programming, here is our primer - it is "mostly free:" https://www.udemy.com/python-1000
 
-If you have no experience with Python 3 but know how to program, then jnump right in @: https://www.udemy.com/python-1100
+If you have no experience with Python 3 but know how to program, then jump right in @: https://www.udemy.com/python-1100
 
--Designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
+# Overview
+This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams, students enrolled in other Python training opportunities will also enjoy these activities.
 
-Consider viewing: 
+If you are wondergin what software design is all about, consider viewing: 
 
 Video: [Creating a Navigational Computer](https://www.youtube.com/watch?v=X3-s38YFQwM)
 
@@ -20,7 +21,7 @@ Video: [Whose your 'Bobbie?](https://www.youtube.com/watch?v=nXrSMSQAwWM)
 
 FREE VIDEOS FOR THE AMAZON BOOK
 --------
-Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
+Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and bonus exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
 New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000, 2000, and 3000 Videos for free. This FREE SET of OVER 13 HOURS OF PROFESSIONAL TRAINING ON PYTHON 3, includes.
 
@@ -39,11 +40,13 @@ Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/pytho
 
 -Everything you'll need to tackle modern software development projects using Python 3.
 
---Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
+The Kindle Edition
+-----
+Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
-Book on Amazon: [Python By Requirement](https://www.amazon.com/dp/B075WTKVNB)
+Amazon Opportunity: [Python By Requirement](https://www.amazon.com/dp/B075WTKVNB)
 
-For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
+IN THE BOOK: For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
 
 ADVANCED PYTHON TRAINING
@@ -56,6 +59,8 @@ Training: **Python 1300: [Grocking Regular Expressions](https://www.udemy.com/co
 
 Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/python-2100-objects-factories-frameworks)**
 
+Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/python-3000-tkinter)**
+
 If you're 'into' classical mathematics:
 
 Training: **Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics)**
@@ -66,9 +71,9 @@ Training: **Python 5000: [Python 5000: Modeling & Simulation](https://www.udemy.
 
 If you're looking for learning-edge / pre-interview review topics you might enjoy:
 
-Training: **[Python 9000: Review Concepts (K1 thru K10)](https://www.udemy.com/course/python-interview-questions)**
+Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/course/python-interview-questions)**
 
-Training **[Python 9000: Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22)**
+Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22)**
 
 -As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, as well as [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progessional software development topics.
 
