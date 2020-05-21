@@ -22,19 +22,19 @@ PRINTED BOOK
 --------
 Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
-New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000, 2000, and 3000 Videos for free. This FREE SET of OVER 13 HOURS OF PROFESSIONL TRAINIG ON PYTHON 3, includes.
+New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000, 2000, and 3000 Videos for free. This FREE SET of OVER 13 HOURS OF PROFESSIONAL TRAINING ON PYTHON 3, includes.
 
-**Python 1000, The Python Primer**: https://www.udemy.com/course/python-1000
+**Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000)**
 
-**Python 1100, Programming For Beginners**: https://www.udemy.com/course/python-1100
+**Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100)**
 
-**Python 2000, Beyond The Basics**: https://www.udemy.com/course/python-2000-beyond-the-basics
+**Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics)**
 
-**Python 3000, Tactical File I/O**: https://www.udemy.com/course/python-3000-tactical-file-io
+**Python 3000: [Tactical File I/O](https://www.udemy.com/course/python-3000-tactical-file-io)**
 
-**Python 3000, Tactical IPC**: https://www.udemy.com/course/python-3000-tactical-ipc
+**Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000-tactical-ipc)**
 
-**Python 3000, SQLite Quick-Start**: https://www.udemy.com/course/python-3000-tactical-sql-quick-start
+**Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start)**
 
 
 Everything you'll need to tackle modern software development projects using Python 3.
@@ -56,19 +56,25 @@ https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW8
 
 PYTHON TRAINING
 -----
-Finally, if you need to learn Python 3, then consider:
+If you need to learn or practice more Python 3, then consider:
 
-https://www.udemy.com/python-1000
+**Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200)**
 
-https://www.udemy.com/python-1100/?couponCode=S9K-GITHUB
+**Python 1300: [Grocking Regular Expressions](https://www.udemy.com/course/python-1300)**
 
-https://www.udemy.com/python-1200/?couponCode=S9K-GITHUB
+**Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/python-2100-objects-factories-frameworks)**
 
-https://www.udemy.com/python-2000-beyond-the-basics/?couponCode=S9K-GITHUB
+If you're 'into' classical mathematics:
 
-https://www.udemy.com/python-2100-objects-factories-frameworks
+**Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics)**
 
-As well as our **Python 3000 SQL Quick Start**: https://www.udemy.com/python-3000-tactical-sql-quick-start
+**Python 4000: [Python 4000: Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics)**
+
+**Python 5000: [Python 5000: Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation)**
+
+-As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, as well as [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progessional software development topics.
+
+Well ove 10,000 members strong, you might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**
 
 
 Enjoy!
