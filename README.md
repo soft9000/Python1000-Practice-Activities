@@ -60,15 +60,15 @@ Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/
 
 Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/python-3000-tkinter)**
 
-Training: **Python 3000: [WebDev 3000: Pure Python Web Sites](https://www.udemy.com/course/webdev-3000)**
+Training: **Python 3000: [Pure Python Web Sites](https://www.udemy.com/course/webdev-3000)**
 
 If you're 'into' classical mathematics:
 
 Training: **Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics)**
 
-Training: **Python 4000: [Python 4000: Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics)**
+Training: **Python 4000: [Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics)**
 
-Training: **Python 5000: [Python 5000: Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation)**
+Training: **Python 5000: [Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation)**
 
 If you're looking for learning-edge / pre-interview review topics you might enjoy:
 
