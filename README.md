@@ -37,7 +37,6 @@ Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000
 
 Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start)**
 
-
 -Everything you'll need to tackle modern software development projects using Python 3.
 
 The Kindle Edition
@@ -60,6 +59,8 @@ Training: **Python 1300: [Grocking Regular Expressions](https://www.udemy.com/co
 Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/python-2100-objects-factories-frameworks)**
 
 Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/python-3000-tkinter)**
+
+Training: **Python 3000: [WebDev 3000: Pure Python Web Sites](https://www.udemy.com/course/webdev-3000)**
 
 If you're 'into' classical mathematics:
 
