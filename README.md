@@ -9,16 +9,16 @@ Designed for software developers who are interested in creating software from pr
 
 Consider viewing: 
 
-https://www.youtube.com/watch?v=X3-s38YFQwM
+[Creating a Navigational Computer](https://www.youtube.com/watch?v=X3-s38YFQwM)
 
-https://www.youtube.com/watch?v=LYqlOAhhj9E
+[Who cares about Software Design ...?](https://www.youtube.com/watch?v=LYqlOAhhj9E)
 
-~ and ~
+~ not to mention ~
 
-https://www.youtube.com/watch?v=nXrSMSQAwWM
+[Whose your 'Bobbie?](https://www.youtube.com/watch?v=nXrSMSQAwWM)
 
 
-PRINTED BOOK
+FREE VIDEOS FOR THE AMAZON BOOK
 --------
 Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
@@ -41,7 +41,7 @@ Everything you'll need to tackle modern software development projects using Pyth
 
 --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
-Location: https://www.amazon.com/dp/B075WTKVNB
+[Python By Requirement](https://www.amazon.com/dp/B075WTKVNB)
 
 For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
@@ -49,12 +49,10 @@ FREE VIDEO
 ------
 Next, please note that these activities use UML Use Cases and Activity Diagrams.
 
-If you need to learn more about how to create and read the core UML Diagram types, you can review our free on-line video on YouTube:
-
-https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV
+If you need to learn more about how to create and read the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).
 
 
-PYTHON TRAINING
+ADVANCED PYTHON TRAINING
 -----
 If you need to learn or practice more Python 3, then consider:
 
@@ -74,7 +72,7 @@ If you're 'into' classical mathematics:
 
 -As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, as well as [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progessional software development topics.
 
-Weighing in at well over 10,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**
+Weighing in at well over 10,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**? -Here is the [intorductory video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
 
 
 Enjoy!
