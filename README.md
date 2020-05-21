@@ -76,7 +76,7 @@ Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/c
 
 Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22)**
 
--As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, as well as [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
+-As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
 
 Finally, weighing in at well over 10,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**? -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
 
