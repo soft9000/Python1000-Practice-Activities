@@ -74,7 +74,7 @@ If you're 'into' classical mathematics:
 
 -As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, as well as [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progessional software development topics.
 
-Well ove 10,000 members strong, you might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**
+Weighing in at well over 10,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**
 
 
 Enjoy!
