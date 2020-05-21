@@ -1,7 +1,7 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. 
 
-If you've no experience with programming, here is our primer - is is "mostly free:" https://www.udemy.com/python-1000
+If you've no experience with programming, here is our primer - it is "mostly free:" https://www.udemy.com/python-1000
 
 If you have no experience with Python 3 but know how to program, then: https://www.udemy.com/python-1100
 
@@ -20,9 +20,20 @@ https://www.youtube.com/watch?v=nXrSMSQAwWM
 
 PRINTED BOOK
 --------
-Recently combined together with the ***official source code*** as well as ***3 bonus exercies***, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
+Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, we wanted everyone to know that our new book "Python 1000, By Requirement" (or simply "Python by Requirement") is now available on Amazon. In addition to the official code and additional exercises, **Python by Requirement** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
-New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000 Videos for free! --Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
+New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000, 2000, and 3000 Videos for free. This FREE SET of OVER 13 HOURS OF PROFESSIONL TRAINIG ON PYTHON 3, includes.
+
+Python 1000: https://www.udemy.com/course/python-1000
+Python 1100: https://www.udemy.com/course/python-1100
+Python 2000: https://www.udemy.com/course/python-2000-beyond-the-basics
+Python 3000, Tactical File I/O: https://www.udemy.com/course/python-3000-tactical-file-io
+Python 3000, Tactical IPC: https://www.udemy.com/course/python-3000-tactical-ipc
+Python 3000, SQLite Quick-Start: https://www.udemy.com/course/python-3000-tactical-sql-quick-start
+
+Everything you'll need to tackle modern software development projects using Python 3.
+
+--Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours can get the book - along with the starter files, project source code (etc.) - for 'nada, as well.
 
 Location: https://www.amazon.com/dp/B075WTKVNB
 
