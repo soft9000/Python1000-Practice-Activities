@@ -45,12 +45,6 @@ Everything you'll need to tackle modern software development projects using Pyth
 
 For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
-FREE VIDEO
-------
-Next, please note that these activities use UML Use Cases and Activity Diagrams.
-
-If you need to learn more about how to create and read the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).
-
 
 ADVANCED PYTHON TRAINING
 -----
@@ -83,6 +77,13 @@ Enjoy!
 CONTACT INFORMATION
 -----
 p.s. If you have suggestions or opportunities - be they for additional projects, corrections, consulting and / or just about anything else - feel free to use the contact form at Soft9000.com to send us a message: http://soft9000.com/blog9000/contact.php
+
+
+ONE MORE FREE VIDEO
+------
+Next, please note that these activities use UML Use Cases and Activity Diagrams.
+
+If you need to learn more about how to create and read the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).
 
 
 
