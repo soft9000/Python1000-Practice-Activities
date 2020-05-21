@@ -25,11 +25,17 @@ Recently combined together with the ***official source code*** as well as ***3 b
 New software developers should note that the book ***includes a coupon***. The coupon allows anyone to view our Python 1000, 2000, and 3000 Videos for free. This FREE SET of OVER 13 HOURS OF PROFESSIONL TRAINIG ON PYTHON 3, includes.
 
 Python 1000: https://www.udemy.com/course/python-1000
+
 Python 1100: https://www.udemy.com/course/python-1100
+
 Python 2000: https://www.udemy.com/course/python-2000-beyond-the-basics
+
 Python 3000, Tactical File I/O: https://www.udemy.com/course/python-3000-tactical-file-io
+
 Python 3000, Tactical IPC: https://www.udemy.com/course/python-3000-tactical-ipc
+
 Python 3000, SQLite Quick-Start: https://www.udemy.com/course/python-3000-tactical-sql-quick-start
+
 
 Everything you'll need to tackle modern software development projects using Python 3.
 
