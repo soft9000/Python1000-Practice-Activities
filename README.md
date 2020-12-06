@@ -33,6 +33,14 @@ Amazon Opportunity: [Python by Design](https://www.amazon.com/dp/B08HJBD98J)
 
 IN THE BOOK: For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
+Review Concepts
+-----
+If you need to prepare for an interview, then you may also enjoy our growing **PyQuest** series:
+
+[Interview Questions &amp; Concepts for Beginners](https://www.amazon.com/gp/product/B08NYZ99PS)
+
+[Interview Questions &amp; Concepts for Experts](https://www.amazon.com/gp/product/B08P7JYG1R)
+
 
 Mission One: DISCOVER "CORE PYTHON"
 --------
