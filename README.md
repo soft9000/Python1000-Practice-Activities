@@ -7,7 +7,7 @@ If you've no experience with programming, here is our primer - it is "mostly fre
 
 If you have no experience with Python 3 but know how to program, then jump right in @: https://www.udemy.com/python-1100
 
-You may also enjoy our [question & answer database](https://github.com/Python3-Training/DatMan/tree/master/QuestJSOB) efforts? 
+You may also enjoy my [Python interview questions & answers](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN/ref=dp_byline_cont_pop_ebooks_1) books? 
 
 # Overview
 This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams. Pythoneers enrolled in other Python training opportunities will also enjoy these activities.
