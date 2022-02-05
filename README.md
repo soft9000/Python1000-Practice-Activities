@@ -3,9 +3,9 @@ This free & open project contains additional activities for intermediate Python 
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
-If you've no experience with programming, here is our primer - it is "mostly free:" https://www.udemy.com/python-1000
+If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)
 
-If you have no experience with Python 3 but know how to program, then jump right in @: https://www.udemy.com/python-1100
+If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)
 
 You may also enjoy my [Python interview questions & answers](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN/ref=dp_byline_cont_pop_ebooks_1) books? 
 
@@ -48,17 +48,17 @@ Mission One: DISCOVER "CORE PYTHON"
 --------
 Everyone needs to understand what "comes with" Python 3! Known as "Core Python," and the "Python Standard Library," here is the recommended core-learning, topical lineup:
 
-Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000)**
+Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)**
 
-Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100)**
+Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)**
 
-Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics)**
+Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics/?referralCode=9620CB60C96D96CA346E)**
 
-Training: **Python 3000: [Tactical File I/O](https://www.udemy.com/course/python-3000-tactical-file-io)**
+Training: **Python 3000: [Tactical File I/O](https://www.udemy.com/course/python-3000-tactical-file-io/?referralCode=43142CC8F1DB1582B899)**
 
-Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000-tactical-ipc)**
+Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000-tactical-ipc/?referralCode=268F78C72FE2E47CDCF7)**
 
-Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start)**
+Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start/?referralCode=3F97E2E5D0FEC5571C3B)**
 
 -Everything you'll need to tackle modern software development projects using Python 3.
 
@@ -67,31 +67,31 @@ Mission Two: ADVANCED PYTHON TRAINING
 -----
 If you need to learn or practice more Python 3, then consider:
 
-Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200)**
+Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
 
-Training: **Python 1300: [Grocking Regular Expressions](https://www.udemy.com/course/python-1300)**
+Training: **Python 1300: [Grokking Regular Expressions](https://www.udemy.com/course/draft/2595154/?referralCode=3E09803ACE00FC08981A)**
 
-Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/python-2100-objects-factories-frameworks)**
+Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/course/python-2100-objects-factories-frameworks/?referralCode=E5350BA579EA3AF4DAEB)**
 
-Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/python-3000-tkinter)**
+Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/draft/2079820/?referralCode=1726F5E56F93499039D4)**
 
-Training: **Python 3000: [Pure Python Web Sites](https://www.udemy.com/course/webdev-3000)**
+Training: **Python 3000: [Pure Python Web Sites](https://www.udemy.com/course/webdev-3000/?referralCode=CA6EFBD23410AA867D31)**
 
 If you're 'into' classical mathematics:
 
-Training: **Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics)**
+Training: **Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics/?referralCode=640D3C0F33837ADAE793)**
 
-Training: **Python 4000: [Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics)**
+Training: **Python 4000: [Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics/?referralCode=175F15EB2C2214789B54)**
 
-Training: **Python 5000: [Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation)**
+Training: **Python 5000: [Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation/?referralCode=3E1EE4F426B1FFA945EB)**
 
 If you're looking for learning-edge / pre-interview review topics you might enjoy:
 
-Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/course/python-interview-questions)**
+Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/course/python-interview-questions/?referralCode=6B199764132B575C503C)**
 
-Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22)**
+Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22/?referralCode=2280C848244C9714E1E2)**
 
--As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
+-As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
 
 Finally, weighing in at well over 15,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**? -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
 
