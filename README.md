@@ -1,5 +1,5 @@
 # Python1000-Practice-Activities
-This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. 
+This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects ~~for beginners~~ are defined using industry-standard UML Use Cases and Activity Diagrams.
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
@@ -93,15 +93,11 @@ Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/
 
 -As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
 
-Finally, weighing in at well over 15,000 Pythoneers strong, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**? -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
+Weighing in at well over 20,000 Pythoneers, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**?
 
+My public nexus for Python 3 is also on [the fbook](https://www.facebook.com/groups/nagyspythontraining).
 
-
-ONE MORE FREE VIDEO
-------
-Finally, these activities use UML Use Cases and Activity Diagrams.
-
-If you need to learn more about how to create and understand the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).
+Finally, if you need to learn more about how to create and understand the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).  -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
 
 
 -- I am looking forward to seeing you in the PROFESSIONAL software development world?
