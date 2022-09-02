@@ -2,6 +2,9 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
+# Python3000-Missions
+If you feel confident in your Python 3, then you might want to go to [Python 3000 Missions](https://github.com/soft9000/Python3000-Missions).
+
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
 If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)
@@ -45,15 +48,22 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 [Interview Questions &amp; Concepts for Experts](https://www.amazon.com/gp/product/B08NYZ99PS)
 
 
-Mission One: DISCOVER "CORE PYTHON"
---------
+## Mission: DISCOVER "CORE PYTHON"
 Everyone needs to understand what "comes with" Python 3! Known as "Core Python," and the "Python Standard Library," here is the recommended core-learning, topical lineup:
 
 Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)**
 
 Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)**
 
+Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
+
+Training: **Python 1500: [Practice Missions](https://www.udemy.com/course/python-missions/?referralCode=9B7F3A61DA08519BCDA5)**
+
+Training: **Python 1501: [Practice Missions II](https://www.udemy.com/course/python-1501/?referralCode=3F9F570072A0DA5C925C)**
+
 Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics/?referralCode=9620CB60C96D96CA346E)**
+
+Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/course/python-2100-objects-factories-frameworks/?referralCode=E5350BA579EA3AF4DAEB)**
 
 Training: **Python 3000: [Tactical File I/O](https://www.udemy.com/course/python-3000-tactical-file-io/?referralCode=43142CC8F1DB1582B899)**
 
@@ -61,18 +71,9 @@ Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000
 
 Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start/?referralCode=3F97E2E5D0FEC5571C3B)**
 
--Everything you'll need to tackle modern software development projects using Python 3.
-
-
-Mission Two: ADVANCED PYTHON TRAINING
------
-If you need to learn or practice more Python 3, then consider:
-
-Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
+## Mission: ENJOY TOPICAL PYTHON TRAINING (optional)
 
 Training: **Python 1300: [Grokking Regular Expressions](https://www.udemy.com/course/draft/2595154/?referralCode=3E09803ACE00FC08981A)**
-
-Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/course/python-2100-objects-factories-frameworks/?referralCode=E5350BA579EA3AF4DAEB)**
 
 Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/draft/2079820/?referralCode=1726F5E56F93499039D4)**
 
@@ -104,6 +105,3 @@ Finally, if you need to learn more about how to create and understand the core U
 -- I am looking forward to seeing you in the PROFESSIONAL software development world?
 
 -Randall Nagy
-
-
-
