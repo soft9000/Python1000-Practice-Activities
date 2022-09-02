@@ -95,6 +95,7 @@ Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/
 
 -As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
 
+# Additional Opportunties
 Weighing in at well over 20,000 Pythoneers, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**?
 
 My public nexus for Python 3 is also on [the fbook](https://www.facebook.com/groups/nagyspythontraining).
