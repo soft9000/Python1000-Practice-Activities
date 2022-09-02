@@ -36,7 +36,6 @@ The Kindle Edition
 Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours might be able to get the book for free. On-line or in paperback, the source code solution to all projects will always be included in the book.
 
 Amazon Opportunity: [Python by Design](https://www.amazon.com/dp/B08HJBD98J)
-
 IN THE BOOK: For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
 Review Concepts
