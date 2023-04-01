@@ -99,7 +99,10 @@ Weighing in at well over 20,000 Pythoneers, new students might also want to join
 
 My public nexus for Python 3 is also on [the fbook](https://www.facebook.com/groups/nagyspythontraining).
 
-Finally, if you need to learn more about how to create and understand the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).  -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
+If you need to learn more about how to create and understand the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).  -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
+
+## zSupport?
+If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
 
 
 -- I am looking forward to seeing you in the PROFESSIONAL software development world?
