@@ -105,3 +105,5 @@ Finally, if you need to learn more about how to create and understand the core U
 -- I am looking forward to seeing you in the PROFESSIONAL software development world?
 
 -Randall Nagy
+
+p.s Just shared a few of my new [PyQuest Project Cards](https://github.com/soft9000/Python1000-Practice-Activities/tree/master/KPSeries). If you are looking for more ways to level-up your 'Pythoneering prowess then check out the [PyQuest Project](https://github.com/Python3-Training/PyQuest/tree/8b5cdf78625209db537cac4973d93876ef02345d) on this 'hub, as well?
