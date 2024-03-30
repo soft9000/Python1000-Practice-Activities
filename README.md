@@ -31,9 +31,9 @@ Review Concepts
 -----
 If you need to prepare for an interview, then you may also enjoy our growing **PyQuest** series:
 
-[Interview Questions &amp; Concepts for Beginers](https://www.amazon.com/gp/product/B08P7JYG1R)
+[Interview Questions &amp; Concepts for Beginers](https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K)
 
-[Interview Questions &amp; Concepts for Experts](https://www.amazon.com/gp/product/B08NYZ99PS)
+[Interview Questions &amp; Concepts for Experts](https://www.amazon.com/100-PyQuest-Cards-Randall-Nagy-ebook/dp/B0BZLY714B)
 
 
 ## Mission: DISCOVER "CORE PYTHON"
