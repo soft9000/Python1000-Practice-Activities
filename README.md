@@ -3,7 +3,7 @@
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
 # Python3000-Missions
-If you feel confident in your Python 3, then you might want to go to [Python 3000 Missions](https://github.com/soft9000/Python3000-Missions).
+If you feel confident in your Python 3, then you might want to go to [Python 3000 Missions](https://www.udemy.com/course/python-missions/learn/lecture/31885106?referralCode=9B7F3A61DA08519BCDA5).
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
@@ -15,17 +15,6 @@ You may also enjoy my [Python interview questions & answers](https://www.amazon.
 
 # Overview
 This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams. Pythoneers enrolled in other Python training opportunities will also enjoy these activities.
-
-If you are wondering what software design is all about, consider viewing: 
-
-Video: [Creating a Navigational Computer](https://www.youtube.com/watch?v=X3-s38YFQwM)
-
-Video: [Who cares about Software Design ...?](https://www.youtube.com/watch?v=LYqlOAhhj9E)
-
-~ not to mention ~
-
-Video: [Whose your 'Bobbie?](https://www.youtube.com/watch?v=nXrSMSQAwWM)
-
 
 THE AMAZON BOOK
 --------
@@ -98,8 +87,6 @@ Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/
 Weighing in at well over 20,000 Pythoneers, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**?
 
 My public nexus for Python 3 is also on [the fbook](https://www.facebook.com/groups/nagyspythontraining).
-
-If you need to learn more about how to create and understand the core UML Diagram types, you can review our [free on-line video on YouTube](https://www.youtube.com/watch?v=XXpe61kaJPQ&index=1&list=PLItP5KoawLqk45h_PmXQW82qRUqOUOMCV).  -Here is the [video](https://www.youtube.com/watch?v=rZLr38O8t0s) & mentoring opportunity.
 
 ## zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
