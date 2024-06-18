@@ -1,6 +1,6 @@
 ![Logo](https://github.com/soft9000/Python1000-Practice-Activities/blob/master/GithubLogoPyByDesign.png)
 # Python1000-Practice-Activities
-This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
+This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams. [Online mentoring](https://takelessons.com/computer-skills/python-lessons/classes/python-by-design) is available.
 
 # Python3000-Missions
 If you feel confident in your Python 3, then you might want to go to [Python 3000 Missions](https://www.udemy.com/course/python-missions/learn/lecture/31885106?referralCode=9B7F3A61DA08519BCDA5).
