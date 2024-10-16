@@ -39,7 +39,7 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 ## Mission: DISCOVER "CORE PYTHON"
 Everyone needs to understand what "comes with" Python 3! Known as "Core Python," and the "Python Standard Library," here is the recommended core-learning, topical lineup:
 
-Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)**
+Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000-the-python-primer/?referralCode=A22C48BD99DBF167A3DE)**
 
 Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)**
 
@@ -65,7 +65,6 @@ Training: **Python 1300: [Grokking Regular Expressions](https://www.udemy.com/co
 
 Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/draft/2079820/?referralCode=1726F5E56F93499039D4)**
 
-Training: **Python 3000: [Pure Python Web Sites](https://www.udemy.com/course/webdev-3000/?referralCode=CA6EFBD23410AA867D31)**
 
 If you're 'into' classical mathematics:
 
