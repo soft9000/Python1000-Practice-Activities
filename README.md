@@ -7,11 +7,11 @@ If you feel confident in your Python 3, then you might want to go to [Python 300
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
-If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)
+If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000-the-python-primer/?referralCode=A22C48BD99DBF167A3DE).
 
 If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)
 
-You may also enjoy my [Python interview questions & answers](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN/ref=dp_byline_cont_pop_ebooks_1) books? 
+You may also enjoy my [Python interview questions & answers](https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K) book? 
 
 # Overview
 This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams. Pythoneers enrolled in other Python training opportunities will also enjoy these activities.
