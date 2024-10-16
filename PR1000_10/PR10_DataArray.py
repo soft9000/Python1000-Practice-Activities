@@ -1,9 +1,9 @@
 """
-File: PR07_DataArray.py
-Requirements: See PT07_DataArray
+A hand list of quotations.
 """
 
-# Additional quotations can be found https://sourceforge.net/projects/mightymaxims
+# Additional quotations can be found at
+# https://github.com/soft9000/mightymaxims
 def load_data():
     return (
         "George Bernard Shaw|You can not believe in honor until you have achieved it. Better keep yourself clean and bright; you are the window through which you must see the world.",
