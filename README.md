@@ -36,55 +36,11 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 [Interview Questions &amp; Concepts for Experts](https://www.amazon.com/100-PyQuest-Cards-Randall-Nagy-ebook/dp/B0BZLY714B)
 
 
-## Mission: DISCOVER "CORE PYTHON"
-Everyone needs to understand what "comes with" Python 3! Known as "Core Python," and the "Python Standard Library," here is the recommended core-learning, topical lineup:
-
-Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000-the-python-primer/?referralCode=A22C48BD99DBF167A3DE)**
-
-Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)**
-
-Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
-
-Training: **Python 1500: [Practice Missions](https://www.udemy.com/course/python-missions/?referralCode=9B7F3A61DA08519BCDA5)**
-
-Training: **Python 1501: [Practice Missions II](https://www.udemy.com/course/python-1501/?referralCode=3F9F570072A0DA5C925C)**
-
-Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics/?referralCode=9620CB60C96D96CA346E)**
-
-Training: **Python 2100: [Objects Factories & Frameworks](https://www.udemy.com/course/python-2100-objects-factories-frameworks/?referralCode=E5350BA579EA3AF4DAEB)**
-
-Training: **Python 3000: [Tactical File I/O](https://www.udemy.com/course/python-3000-tactical-file-io/?referralCode=43142CC8F1DB1582B899)**
-
-Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000-tactical-ipc/?referralCode=268F78C72FE2E47CDCF7)**
-
-Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start/?referralCode=3F97E2E5D0FEC5571C3B)**
-
-## Mission: ENJOY TOPICAL PYTHON TRAINING (optional)
-
-Training: **Python 1300: [Grokking Regular Expressions](https://www.udemy.com/course/draft/2595154/?referralCode=3E09803ACE00FC08981A)**
-
-Training: **Python 3000: [The Tkinter GUI](https://www.udemy.com/course/draft/2079820/?referralCode=1726F5E56F93499039D4)**
-
-
-If you're 'into' classical mathematics:
-
-Training: **Python 3000: [Cartesian Planes & Plotting](https://www.udemy.com/course/introduction-to-turtle-graphics/?referralCode=640D3C0F33837ADAE793)**
-
-Training: **Python 4000: [Drawing & GUI Frameworks](https://www.udemy.com/course/more-turtle-graphics/?referralCode=175F15EB2C2214789B54)**
-
-Training: **Python 5000: [Modeling & Simulation](https://www.udemy.com/course/turtle-graphics-modeling-simulation/?referralCode=3E1EE4F426B1FFA945EB)**
-
-If you're looking for learning-edge / pre-interview review topics you might enjoy:
-
-Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/course/python-interview-questions/?referralCode=6B199764132B575C503C)**
-
-Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22/?referralCode=2280C848244C9714E1E2)**
-
--As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
-
-
 ## zSupport?
-If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
+If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions.
+
+You can also [gift me a 'cuppa or three on ko-fi.](https://ko-fi.com/randallnagy).
+
 
 
 -- I am looking forward to seeing you in the PROFESSIONAL software development world?
