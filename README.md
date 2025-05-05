@@ -1,9 +1,9 @@
 ![Logo](https://github.com/soft9000/Python1000-Practice-Activities/blob/master/GithubLogoPyByDesign.png)
 # Python1000-Practice-Activities
-This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams. [Online mentoring](https://takelessons.com/computer-skills/python-lessons/classes/python-by-design) is available.
+This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
 # Python3000-Missions
-If you feel confident in your Python 3, then you might want to go to [Python 3000 Missions](https://www.udemy.com/course/python-missions/learn/lecture/31885106?referralCode=9B7F3A61DA08519BCDA5).
+If you feel confident in your Python 3, then you might want to go to [Python 2200: Mastering Object Orientation](https://www.udemy.com/course/python_abc/?referralCode=A8E7E799DC7E500051F6)
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
@@ -38,10 +38,10 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 ## zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions.
 
-You might also [gift me a 'cuppa on ko-fi](https://ko-fi.com/randallnagy)
+You might also [Total Pythoneering](https://www.youtube.com/@TotalPythoneering).
 
 
--- I am looking forward to seeing you in the PROFESSIONAL software development world?
+-- I am looking forward to seeing you in the PROFESSIONAL software development world.
 
 -Randall Nagy
 
