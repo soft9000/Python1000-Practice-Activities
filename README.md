@@ -1,4 +1,4 @@
-![Logo](https://github.com/soft9000/Python1000-Practice-Activities/blob/master/GithubLogoPyByDesign.png)
+soft9000/Python1000-Practice-Activities![Logo](https://github.com/soft9000/Python1000-Practice-Activities/blob/master/GithubLogoPyByDesign.png)
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
@@ -9,7 +9,7 @@ If you feel confident in your Python 3, then you might want to go to [Python 220
 
 If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000-the-python-primer/?referralCode=A22C48BD99DBF167A3DE).
 
-If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)
+If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.youtube.com/playlist?list=PLKQTn4Qhb1Rk).
 
 You may also enjoy my [Python interview questions & answers](https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K) book? 
 
