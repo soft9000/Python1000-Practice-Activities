@@ -3,13 +3,13 @@
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
 # Python3000-Missions
-If you feel confident in your Python 3, then you might want to go to [Python 2200: Mastering Object Orientation](https://www.udemy.com/course/python_abc/?referralCode=A8E7E799DC7E500051F6)
+If you feel confident in your Python 3, then you might want to Pythoneer [Beyond the Basics](https://www.manning.com/livevideo/beyond-the-python-basics) to start mastering Object Orientation.
 
 ***If you like these type of real-world practice activities, please buy the [Python by Design Book](https://www.amazon.com/dp/B08HJBD98J), and I'll make more. (The book also has my code, as crafted for each activity.)***
 
 If you've no experience with programming, then here is the [Python 1000](https://www.udemy.com/course/python-1000-the-python-primer/?referralCode=A22C48BD99DBF167A3DE).
 
-If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.youtube.com/playlist?list=PLKQTn4Qhb1Rk).
+If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.manning.com/livevideo/functional-python-for-beginners).
 
 You may also enjoy my [Python interview questions & answers](https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K) book? 
 
@@ -18,14 +18,14 @@ This project has been designed for software developers who are interested in cre
 
 THE AMAZON BOOK
 --------
-Recently combined together with the ***official source code*** as well as ***3 bonus exercies*** & no-nonsence career advice, our "Python by Design" is available on Amazon. In addition to the official code and bonus exercises, **Python by Design** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
+Recently combined together with the ***official source code*** as well as ***3 bonus exercises*** & no-nonsense career advice, our "Python by Design" is available on Amazon. In addition to the official code and bonus exercises, **Python by Design** also shares a few of the project insights that I use to help me succeed in our modern, profe$$ional software developer world.
 
 The Kindle Edition
 -----
 Better still, if you are part of Amazon's "Kindle Club" (kindle unlimited) then you & yours might be able to get the book for free. On-line or in paperback, the source code solution to all projects will always be included in the book.
 
 Amazon Opportunity: [Python by Design](https://www.amazon.com/dp/B08HJBD98J)
-IN THE BOOK: For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (eratta, official solutons, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
+IN THE BOOK: For any who need a little help or a peek at the code I came up with, the source code is included in the book. Like most books a link to the official support site (errata, official solutions, etc,) as well as my industry insights / advice, will also be found in that Amazon tome, as well.
 
 Review Concepts
 -----
@@ -36,7 +36,7 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 [Interview Questions &amp; Concepts for Experts](https://www.amazon.com/100-PyQuest-Cards-Randall-Nagy-ebook/dp/B0BZLY714B)
 
 ## zSupport?
-If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions.
+If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.manning.com/authors/randall-nagy) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions.
 
 You might also [Total Pythoneering](https://www.youtube.com/@TotalPythoneering).
 
