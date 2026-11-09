@@ -11,7 +11,7 @@ If you've no experience with programming, then here is the [Python 1000](https:/
 
 If you have no experience with Python 3 but know how to program, then jump right in with [Python 1100](https://www.manning.com/livevideo/functional-python-for-beginners).
 
-You may also enjoy my [Python interview questions & answers](https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K) book? 
+You may also enjoy my [Python interview questions & answers](https://www.amazon.com/dp/B0BH97W78F) book? 
 
 # Overview
 This project has been designed for software developers who are interested in creating software from professionally defined use cases using the most common set of UML diagrams. Pythoneers enrolled in other Python training opportunities will also enjoy these activities.
@@ -31,7 +31,7 @@ Review Concepts
 -----
 If you need to prepare for an interview, then you may also enjoy our growing **PyQuest** series:
 
-[Interview Questions &amp; Concepts]([https://www.amazon.com/100-Python-Questions-Concepts-Interview-ebook/dp/B0BH97B59K](https://us.amazon.com/Python-Interview-Questions-Concepts-Advanced/dp/B08NWFSLGY))
+[Interview Questions &amp; Concepts](https://us.amazon.com/Python-Interview-Questions-Concepts-Advanced/dp/B08NWFSLGY)
 
 [Interview Questions &amp; Concepts Flash Cards](https://www.amazon.com/100-PyQuest-Cards-Randall-Nagy/dp/B0BZF8VHDJ)
 
