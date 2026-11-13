@@ -2,6 +2,9 @@
 # Python1000-Practice-Activities
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
+# Professional Videos
+We're proud to be part of the Manning liveVideo Nexus. If you are looking for more professional Pythoneering opportunities then feel free to [browse here](https://www.manning.com/authors/randall-nagy)... and don't forget [Soft9000.com](https://soft9000.com/)?
+
 # Python3000-Missions
 If you feel confident in your Python 3, then you might want to Pythoneer [Beyond the Basics](https://www.manning.com/livevideo/beyond-the-python-basics) to start mastering Object Orientation.
 
