@@ -41,7 +41,7 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 ## zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.manning.com/authors/randall-nagy) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions.
 
-You might also [Total Pythoneering](https://www.youtube.com/@TotalPythoneering).
+You might also want to check out the public video's shared @ [Total Pythoneering](https://www.youtube.com/@TotalPythoneering) on YouTube.
 
 
 -- I am looking forward to seeing you in the PROFESSIONAL software development world.
