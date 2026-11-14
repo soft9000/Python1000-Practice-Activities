@@ -1,5 +1,5 @@
 ![Logo](https://github.com/soft9000/Python1000-Practice-Activities/blob/master/GithubLogoPyByDesign.png)
-# Python1000-Practice-Activities
+# Practice Activities for 'Pythoneers
 This free & open project contains additional activities for intermediate Python students, or students who have completed our "Python 1000" Training SERIES. The requirements for these projects *for beginners* are defined using industry-standard UML Use Cases and Activity Diagrams.
 
 # Professional Videos
